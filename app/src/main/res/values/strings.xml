@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Quizify</string>
+    <string name="quizify">Quizify</string>
+    <string name="name">Name....</string>
+    <string name="please_enter_your_name">Please enter your name</string>
+    <string name="start">Start</string>
+    <string name="welcome">WELCOME</string>
+    <string name="submit">SUBMIT</string>
+    <string name="what_country_does_this_flag_belong_to">What country does this flag belong to?</string>
+    <string name="your_score_is_9_out_of_10">Your Score is 9 out of 10</string>
+    <string name="hey_congratulations">Hey,Congratulations....</string>
+    <string name="image">image</string>
+    <string name="result">Result</string>
+    <string name="finish">Finish</string>
+</resources>
